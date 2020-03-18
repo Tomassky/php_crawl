@@ -11,14 +11,20 @@
 
 ## 待完善功能
 
+ - xpath
+
+ - google search
+ 
  - 多线程的爬取
 
- - Redis缓存
- 
- - 多种标签的正则匹配存储
+ - ReverseRegex
 
- - 多个网页的爬取
+ - 标签的正则匹配
 
- - 代理池IP以及head头的随机设置
+ - urllist
 
- - 目标爆破（借用字典或正则匹配）
+ - proxy_ip pool
+
+ - random http-head
+
+ - css和文字反爬
